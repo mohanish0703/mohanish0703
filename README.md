@@ -11,13 +11,15 @@ I report results against a baseline, including when the model barely beats it.
 
 ### Tech stack
 
-| Area | Tools |
+| Area | Skills |
 |---|---|
-| Languages | Python, SQL, TypeScript |
-| Data & ML | Pandas, NumPy, scikit-learn, XGBoost, SHAP, PyTorch, River |
-| LLMs & agents | LangGraph, Gemini, Pydantic |
-| Analytics & BI | Power BI, PostgreSQL, MySQL, Excel |
-| Apps & tooling | FastAPI, Streamlit, Next.js, SQLite, Git, Jupyter |
+| Languages | Python, SQL (MySQL, PostgreSQL), C++, TypeScript |
+| Machine Learning | Regression & Classification, Time-Series Forecasting, Feature Engineering, Cross-Validation (GroupKFold), Hyperparameter Tuning, Model Calibration, Conformal Prediction, SHAP |
+| Deep Learning & LLMs | PyTorch, Transformers, LSTMs/RNNs, LangGraph, Gemini, Agentic AI |
+| Data Analysis & Statistics | Exploratory Data Analysis, Data Cleaning & Preprocessing, Statistical Analysis, Hypothesis Testing, Data Visualization |
+| Analytics & BI | Power BI, Excel |
+| MLOps & Tools | FastAPI, Docker, MLflow, GitHub Actions, Azure, Streamlit, Next.js, SQLite, Git, Jupyter, VS Code |
+| Libraries | Pandas, NumPy, Scikit-learn, XGBoost, River, Pydantic, Matplotlib, Seaborn |
 
 ### Featured projects
 
